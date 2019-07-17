@@ -2,7 +2,7 @@
 
 如图：
 
-![令牌](E:\MyProject\MyWorkSpace\typoraData\images\1563243627034.png "访问令牌")
+![创建令牌](https://github.com/TangWin/notes/blob/master/images/1563243627034.png "创建令牌")
 
 令牌记录：
 

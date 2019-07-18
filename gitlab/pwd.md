@@ -13,6 +13,8 @@
     * wanyd
 * maven
   * 地址：http://101.201.175.208:8081/
+  * 账号：
+    * zhouyl  /  Trtjk!@#$.com
 * Gitlab
   * 地址：http://182.92.143.42
   * 账号：tang.wei01@iwhalecloud.com/TANG1110gitlab

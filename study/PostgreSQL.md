@@ -18,3 +18,10 @@
 * 开源程度不同
   * Oracle：不开源，商业公司，无法影响到产品决策
   * PostgreSQL：开源，用户可以自行扩展功能，从而实现自己的需求
+
+
+
+### MacOS下默认路径
+
+* 安装位置：/Library/PostgreSQL
+* 启动脚本：/Library/PostgreSQL/10/scripts/runpsql.sh
